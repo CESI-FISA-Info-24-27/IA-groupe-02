@@ -1,0 +1,121 @@
+lat,lon,type,nb_pizzas,prix,note,avis,prep_time,opened,ca,email_contact,telephone
+2.168,49.0334,Snack,24,21.21,4.4,446,18,2013,62,contact0@pizza-paris.fr,01 55 36 67 49
+2.9492,48.617,Artisanale,14,17.87,3.0,1342,23,2007,16,contact1@pizza-idf.fr,01 43 32 13 61
+2.4451,48.9691,Chaîne,10,9.96,,3401,22,1993,61,contact2@pizza-paris.fr,01 90 92 20 84
+3.0596,48.7275,Artisanale,5,17.04,2.7,3470,29,1992,69,contact3@pizza-paris.fr,01 83 65 60 73
+2.6615,48.2265,Chaîne,26,11.92,2.6,2536,26,2016,80,contact4@pizza-paris.fr,01 21 45 59 27
+2.5925,48.5773,Chaîne,44,8.27,4.3,1964,39,2007,74,contact5@pizza-paris.fr,01 44 33 13 50
+1.5498,48.7374,Snack,7,13.0,3.1,653,23,2002,111,contact6@pizza-idf.fr,01 17 38 83 59
+2.9267,48.5193,Chaîne,15,18.33,4.0,2881,17,2021,113,contact7@pizza-idf.fr,01 73 79 49 32
+1.6534,48.6414,Chaîne,42,8.01,3.0,534,19,2005,28,contact8@pizza-idf.fr,01 28 24 77 56
+2.1351,49.0645,Restaurant italien,41,9.91,4.9,3243,39,2005,81,contact9@pizza-idf.fr,01 88 55 38 95
+1.7981,48.7301,Snack,22,21.28,3.5,3157,10,1996,113,contact10@pizza-idf.fr,01 38 91 82 23
+1.7391,49.043,Artisanale,19,16.91,4.6,2744,29,2013,-50,contact11@pizza-paris.fr,01 98 18 54 42
+2.7247,48.9083,Artisanale,28,10.33,4.7,1438,14,2015,83,contact12@pizza-idf.fr,01 97 38 30 67
+2.9378,48.2663,Snack,5,9.04,3.4,2998,,1990,88,contact13@pizza-idf.fr,01 13 65 93 31
+2.2381,48.7466,Artisanale,10,13.73,4.8,2212,26,2004,16,contact14@pizza-paris.fr,01 80 72 29 16
+2.2269,48.5247,Snack,44,8.36,3.2,335,15,2004,70,contact15@pizza-paris.fr,01 94 43 21 92
+1.8143,48.6897,Restaurant italien,27,14.16,4.6,2311,,1991,54,contact16@pizza-idf.fr,01 62 85 39 80
+2.1581,48.2549,Restaurant italien,38,16.02,3.2,1617,10,2017,76,contact17@pizza-idf.fr,01 96 89 28 25
+2.2634,49.0543,Chaîne,17,13.93,3.6,3369,24,2005,113,contact18@pizza-paris.fr,01 59 81 60 80
+1.9695,48.4935,Restaurant italien,4,15.32,3.5,607,14,1991,22,contact19@pizza-idf.fr,01 78 54 62 43
+2.3255,48.5447,Restaurant italien,6,16.66,3.5,1621,29,2000,70,contact20@pizza-idf.fr,01 57 12 53 48
+2.9328,48.4799,Artisanale,18,14.2,3.2,1707,13,1997,115,contact21@pizza-paris.fr,01 72 76 57 17
+1.7703,48.6637,Snack,36,15.34,2.9,3411,11,2000,16,contact22@pizza-idf.fr,01 35 45 57 69
+2.5802,48.6546,Artisanale,5,14.25,3.7,2258,18,2001,98,contact23@pizza-paris.fr,01 13 59 16 30
+2.8257,48.9684,Chaîne,18,11.77,2.6,3196,8,2015,92,contact24@pizza-paris.fr,01 11 38 42 87
+2.0193,48.9246,Snack,31,14.43,3.3,2132,33,2022,75,contact25@pizza-idf.fr,01 57 81 92 86
+2.0074,48.7481,Artisanale,34,16.97,3.2,2912,27,1997,107,contact26@pizza-paris.fr,01 17 86 61 94
+1.7379,48.4876,Artisanale,45,20.7,4.3,2388,20,2006,38,contact27@pizza-idf.fr,01 91 70 95 55
+2.9372,48.6566,Chaîne,22,11.62,4.4,749,29,1990,38,contact28@pizza-idf.fr,01 49 63 52 57
+1.9999,48.4345,Artisanale,34,16.12,3.7,796,32,2018,16,contact29@pizza-idf.fr,01 29 27 35 53
+2.468,48.5683,Restaurant italien,13,18.91,4.1,724,11,1985,36,contact30@pizza-idf.fr,01 31 83 30 72
+2.8256,48.9067,Chaîne,43,14.01,2.5,2186,31,1985,106,contact31@pizza-idf.fr,01 34 12 96 10
+1.923,48.764,Snack,23,16.24,4.6,1221,37,2018,53,contact32@pizza-paris.fr,01 97 27 53 72
+1.8203,48.5233,Restaurant italien,5,9.84,4.0,692,10,2009,42,contact33@pizza-idf.fr,01 89 16 86 16
+2.6111,48.7958,Artisanale,7,13.32,3.7,627,8,2004,22,contact34@pizza-idf.fr,01 44 89 87 99
+2.9121,48.3234,Artisanale,36,9.6,3.0,818,20,2007,47,contact35@pizza-paris.fr,01 80 73 36 98
+2.062,49.0398,Artisanale,4,19.69,2.9,368,12,1991,92,contact36@pizza-paris.fr,01 47 43 69 16
+1.797,48.2898,Artisanale,22,13.96,4.6,187,,1993,31,contact37@pizza-paris.fr,01 66 89 44 21
+2.0826,48.5354,Artisanale,29,19.7,3.7,1727,18,1992,102,contact38@pizza-paris.fr,01 30 23 63 85
+2.4672,48.6344,Restaurant italien,15,16.56,4.7,2978,16,2015,24,contact39@pizza-idf.fr,01 66 15 18 43
+1.521,48.7895,Chaîne,25,16.66,4.3,1973,32,1994,81,contact40@pizza-idf.fr,01 88 16 11 92
+2.3595,49.0409,Restaurant italien,35,14.88,4.9,206,32,2010,20,contact41@pizza-paris.fr,01 83 67 21 73
+1.7018,48.6024,Restaurant italien,45,8.5,4.6,3243,27,2017,93,contact42@pizza-idf.fr,01 53 56 16 38
+2.0644,48.9599,Restaurant italien,27,18.63,3.4,3399,26,2020,99,contact43@pizza-paris.fr,01 31 73 27 62
+2.5384,48.2963,Chaîne,11,14.4,4.3,441,10,2022,67,contact44@pizza-paris.fr,01 85 74 27 73
+2.7516,48.2039,Restaurant italien,41,20.9,3.9,2992,14,2009,87,contact45@pizza-idf.fr,01 74 59 63 87
+2.796,49.0243,Snack,29,14.34,3.5,2867,40,2004,80,contact46@pizza-idf.fr,01 80 90 37 35
+2.7145,48.3887,Snack,12,21.42,4.2,1320,30,2020,83,contact47@pizza-idf.fr,01 63 96 78 46
+2.2181,48.9897,Artisanale,37,8.74,,1093,18,2003,28,contact48@pizza-idf.fr,01 98 47 36 79
+2.8838,48.2291,Artisanale,43,20.11,3.9,973,26,1988,59,contact49@pizza-paris.fr,01 97 50 80 16
+1.9273,48.2117,Restaurant italien,18,17.07,3.9,2471,20,2003,97,contact50@pizza-paris.fr,01 32 75 25 58
+1.9745,48.2366,Snack,12,8.08,4.8,163,28,2023,90,contact51@pizza-idf.fr,01 94 48 72 83
+1.6239,48.6951,Snack,37,8.95,3.5,2199,30,1999,94,contact52@pizza-paris.fr,01 56 47 37 89
+3.1943,48.6774,Artisanale,11,20.66,4.1,163,28,2009,24,contact53@pizza-paris.fr,01 79 46 13 76
+2.1374,48.9399,Restaurant italien,35,10.7,4.9,685,8,1989,90,contact54@pizza-idf.fr,01 97 64 23 36
+2.6947,48.684,Restaurant italien,45,17.6,,2936,13,1989,111,contact55@pizza-paris.fr,01 19 83 39 43
+2.2669,48.5669,Restaurant italien,31,9.66,,2950,10,1989,74,contact56@pizza-paris.fr,01 97 48 87 21
+3.0754,48.4534,Restaurant italien,29,999,3.0,3058,26,1994,111,contact57@pizza-idf.fr,01 92 57 11 80
+1.7403,48.9873,Artisanale,4,15.67,,860,30,1998,92,contact58@pizza-idf.fr,01 28 30 33 38
+1.9297,48.7552,Artisanale,15,8.76,5.0,2248,12,2003,42,contact59@pizza-paris.fr,01 84 72 52 55
+2.6143,48.3154,Artisanale,22,12.45,4.0,1252,17,2021,113,contact60@pizza-paris.fr,01 64 31 10 50
+1.8766,48.4216,Restaurant italien,21,18.26,3.7,1469,39,2020,92,contact61@pizza-idf.fr,01 45 27 78 35
+3.0068,48.4369,Artisanale,8,16.84,3.9,3150,10,2020,79,contact62@pizza-paris.fr,01 29 56 60 38
+2.5023,49.0023,Snack,12,13.55,4.2,3473,18,2017,30,contact63@pizza-paris.fr,01 82 94 28 71
+1.5687,49.0453,Restaurant italien,18,8.6,4.8,1479,37,1987,93,contact64@pizza-paris.fr,01 76 91 45 43
+2.4693,48.7208,Restaurant italien,45,20.58,,1030,22,2018,114,contact65@pizza-idf.fr,01 72 71 87 10
+1.7362,48.6517,Chaîne,18,10.96,3.4,2938,22,2011,102,contact66@pizza-paris.fr,01 96 71 71 36
+2.6003,48.7317,Restaurant italien,5,16.29,3.8,2344,18,2001,76,contact67@pizza-idf.fr,01 86 82 91 12
+2.7376,48.9907,Snack,9,14.6,3.0,1682,19,2024,43,contact68@pizza-paris.fr,01 97 53 68 86
+1.8907,48.7315,Restaurant italien,douze,20.03,3.5,612,19,2015,86,contact69@pizza-paris.fr,01 78 74 25 21
+1.7216,48.634,Artisanale,45,20.25,3.6,3286,32,2007,104,contact70@pizza-idf.fr,01 99 83 22 64
+2.3111,48.3205,Chaîne,9,13.72,4.3,3233,,2018,10,contact71@pizza-paris.fr,01 36 98 50 62
+1.7631,48.526,Snack,20,13.12,4.2,3092,38,1996,81,contact72@pizza-paris.fr,01 49 83 54 60
+2.9535,48.8622,Artisanale,18,10.27,3.5,1386,11,1995,91,contact73@pizza-paris.fr,01 21 28 70 86
+1.6089,48.5918,Chaîne,27,999,5.0,2514,26,2023,109,contact74@pizza-idf.fr,01 91 73 66 11
+2.6167,48.3815,Snack,16,15.22,2.9,147,8,1995,45,contact75@pizza-idf.fr,01 55 95 60 61
+2.3802,48.7275,Artisanale,9,15.83,3.4,3340,20,2014,83,contact76@pizza-paris.fr,01 32 62 74 23
+2.3554,48.7028,Snack,11,20.27,3.9,2843,32,2021,41,contact77@pizza-idf.fr,01 68 97 68 85
+2.3193,48.9758,Snack,8,11.09,4.5,1689,8,2001,21,contact78@pizza-paris.fr,01 53 19 80 32
+2.101,48.6289,Snack,15,20.74,3.0,3012,24,1998,41,contact79@pizza-idf.fr,01 55 29 23 25
+2.6489,49.0282,Restaurant italien,43,21.41,3.4,1291,25,2016,107,contact80@pizza-idf.fr,01 45 60 38 83
+2.3938,48.3154,Restaurant italien,34,999,4.7,3178,15,2018,98,contact81@pizza-paris.fr,01 96 36 58 84
+2.1147,48.2907,Snack,15,14.6,3.4,2042,34,2008,61,contact82@pizza-paris.fr,01 33 83 26 83
+2.8841,48.8174,Snack,19,10.74,4.3,1937,19,2011,90,contact83@pizza-idf.fr,01 50 72 48 42
+2.4653,48.7059,Restaurant italien,10,19.39,4.1,1842,24,2008,81,contact84@pizza-idf.fr,01 42 54 12 62
+2.9745,48.3091,Chaîne,40,10.44,3.4,2757,36,1990,46,contact85@pizza-paris.fr,01 28 31 91 53
+2.5409,48.5796,Restaurant italien,huit,12.39,4.3,2479,25,2013,56,contact86@pizza-idf.fr,01 76 67 62 31
+1.5393,48.3655,Chaîne,20,9.12,2.8,261,38,2020,108,contact87@pizza-paris.fr,01 20 23 43 89
+2.6132,48.3397,Restaurant italien,23,14.2,3.8,698,,2007,51,contact88@pizza-idf.fr,01 69 79 44 80
+3.1482,48.6004,Chaîne,41,16.9,3.8,2619,30,2015,113,contact89@pizza-paris.fr,01 49 56 62 43
+1.5179,48.3401,Chaîne,26,17.63,4.4,1227,,2012,86,contact90@pizza-paris.fr,01 10 80 57 34
+2.4529,48.5706,Restaurant italien,19,13.46,3.2,1729,25,2003,78,contact91@pizza-idf.fr,01 62 34 18 33
+1.6876,48.323,Restaurant italien,43,14.89,2.9,2191,,1991,26,contact92@pizza-idf.fr,01 11 39 21 29
+1.8692,48.2133,Restaurant italien,23,13.2,2.6,328,17,1988,60,contact93@pizza-paris.fr,01 70 33 34 42
+2.908,48.9355,Artisanale,19,11.46,3.0,3011,21,2015,49,contact94@pizza-idf.fr,01 30 90 15 80
+1.9306,48.6688,Snack,16,17.33,3.1,1778,18,2002,60,contact95@pizza-idf.fr,01 11 15 84 98
+2.5136,48.6277,Snack,9,17.6,4.9,3111,11,2007,99,contact96@pizza-idf.fr,01 23 26 72 39
+2.4492,48.4851,Snack,32,999,4.3,1026,39,2013,79,contact97@pizza-idf.fr,01 34 82 33 79
+2.7451,48.5129,Snack,42,8.96,3.2,1078,37,1985,74,contact98@pizza-paris.fr,01 33 12 89 56
+1.9059,48.8984,Artisanale,38,17.57,2.9,1159,28,1992,94,contact99@pizza-paris.fr,01 26 32 14 35
+1.8257,48.2963,Artisanale,40,14.86,4.0,201,12,1985,36,contact100@pizza-idf.fr,01 20 69 91 17
+2.7639,48.5248,Restaurant italien,27,16.64,4.3,3417,21,2018,102,contact101@pizza-paris.fr,01 59 34 34 77
+2.469,48.7912,Chaîne,39,9.48,3.4,1878,35,1991,33,contact102@pizza-idf.fr,01 74 53 94 30
+2.5199,48.6805,Snack,24,19.83,4.1,3383,23,2021,58,contact103@pizza-idf.fr,01 42 56 67 67
+1.5003,49.0638,Artisanale,22,21.91,3.3,908,28,1986,98,contact104@pizza-idf.fr,01 80 75 81 83
+1.763,49.0333,Artisanale,33,13.14,3.1,3322,33,2021,103,contact105@pizza-paris.fr,01 51 71 32 72
+2.6723,48.9431,Artisanale,42,999,3.5,3195,,2006,114,contact106@pizza-paris.fr,01 25 39 93 87
+2.5776,49.0358,Restaurant italien,7,15.56,3.8,904,33,2013,83,contact107@pizza-idf.fr,01 38 65 47 60
+2.0715,48.3332,Restaurant italien,40,11.68,3.6,2858,16,2015,72,contact108@pizza-paris.fr,01 83 35 81 88
+2.3912,49.0974,Chaîne,8,17.59,2.8,1694,30,1997,86,contact109@pizza-idf.fr,01 49 31 54 88
+2.8648,48.9394,Chaîne,32,10.8,4.4,3492,11,2000,28,contact110@pizza-idf.fr,01 46 11 53 98
+2.0187,48.9239,Restaurant italien,5,10.97,4.4,2247,17,1986,94,contact111@pizza-idf.fr,01 42 31 17 46
+2.6841,48.3806,Snack,7,8.93,4.2,2703,14,1986,93,contact112@pizza-paris.fr,01 58 75 22 50
+2.5151,48.6362,Artisanale,15,15.85,2.6,2168,39,2010,12,contact113@pizza-paris.fr,01 55 55 90 48
+3.163,48.4126,Snack,7,20.47,2.6,2273,22,1994,60,contact114@pizza-idf.fr,01 21 58 76 96
+2.5634,48.7512,Chaîne,30,21.59,3.3,2220,16,2022,112,contact115@pizza-paris.fr,01 27 49 98 77
+2.2311,49.0186,Chaîne,45,12.44,4.9,484,17,1986,62,contact116@pizza-idf.fr,01 48 66 91 45
+1.8195,48.3368,Chaîne,quinze,16.64,4.0,2442,9,2007,109,contact117@pizza-paris.fr,01 74 87 70 93
+2.9486,48.5366,Restaurant italien,34,8.45,2.5,1105,22,1997,18,contact118@pizza-paris.fr,01 66 88 72 98
+2.2778,48.4924,Chaîne,31,18.29,3.3,2504,10,2018,68,contact119@pizza-idf.fr,01 15 41 76 78
