@@ -4,9 +4,7 @@ Chaque fichier représente une région et contient des problèmes différents.
 """
 
 import random
-import csv
 import os
-import json
 
 random.seed(42)
 
