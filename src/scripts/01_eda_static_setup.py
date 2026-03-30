@@ -10,10 +10,10 @@ du notebook appelant après exécution.
 import json
 import os
 
-import matplotlib.pyplot as plt  # noqa: F401
-import numpy as np  # noqa: F401
-import pandas as pd  # noqa: F401
-import seaborn as sns  # noqa: F401
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import seaborn as sns
 
 # On charge la configuration depuis le fichier JSON
 _CONFIG_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.json")
@@ -22,7 +22,6 @@ with open(_CONFIG_PATH, "r", encoding="utf-8") as _f:
     _cfg = json.load(_f)
 
 # On expose les chemins
-
 RAW_DATA_DIR = _cfg["paths"]["raw_data"]
 PRE_PROCESSED_DATA_DIR = _cfg["paths"]["pre_processed_data"]
 CORRESPONDING_TABLE_DIR = _cfg["paths"]["corresponding_table"]
