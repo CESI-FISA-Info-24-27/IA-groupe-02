@@ -9,7 +9,7 @@ HumanForYou est une entreprise pharmaceutique indienne d'environ 4 000 employés
 
 Pour comprendre et enrayer ce phénomène, la direction a mandaté une analyse approfondie des données internes. Le jeu de données disponible est riche et multidimensionnel :
 
-- Pofils démographiques et contractuels des employés,
+- Profils démographiques et contractuels des employés,
 - Évaluations managériales,
 - Résultats d'une enquête de satisfaction,
 - Données de badgeuse couvrant l'intégralité de l'année 2015.
