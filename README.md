@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-family: 'Roboto', sans-serif; font-weight:bold; font-size:40px; margin: 40px 0">Projet HumanForYou</h1><img style="margin: 40px 0" src="./src/resources/StartImage.jpg"/><p style="text-align: center; font-style: italic; margin-top: 10px; font-size:15px">Rédigé par le <b>Groupe 2 </b></p><p style="text-align: right; font-size: 0.9em;">
+<h1 style="text-align: center; font-family: 'Roboto', sans-serif; font-weight:bold; font-size:40px; margin: 40px 0">Projet HumanForYou</h1><img style="margin: 40px 0" src="./src/resources/start_image.jpg"/><p style="text-align: center; font-style: italic; margin-top: 10px; font-size:15px">Rédigé par le <b>Groupe 2 </b></p><p style="text-align: right; font-size: 0.9em;">
 BEROUD Dylan, SERRE Loïc, REPELLIN Benjamin</p>
 
 ---
@@ -48,7 +48,8 @@ IA-groupe-02/
 │   │   ├── pre-processed/         # Premier traitement des données
 │   │   ├── corresponding-tables/  # Tables de correspondance
 │   │   └── processed/             # Données prêtes pour modélisation
-│   ├── notebooks/                 # Notebooks Jupyter (EDA, modélisation)
+│   ├── documentation/             # Livrables (Éthique, Bibliographie)
+│   ├── notebooks/                 # Notebooks Jupyter (EDA, Modélisation)
 │   ├── resources/                 # Images & Vidéos
 │   └── scripts/                   # Scripts Python
 ├── lessons/                       # Mini-Projets & Ressources pédagogiques
