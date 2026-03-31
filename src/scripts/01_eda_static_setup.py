@@ -10,10 +10,10 @@ du notebook appelant après exécution.
 import json
 import os
 
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-import seaborn as sns
+import matplotlib.pyplot as plt  # noqa: F401
+import numpy as np  # noqa: F401
+import pandas as pd  # noqa: F401
+import seaborn as sns  # noqa: F401
 
 # On charge la configuration depuis le fichier JSON
 _CONFIG_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.json")
