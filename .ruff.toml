@@ -1,0 +1,8 @@
+# Ruff configuration
+# Note: certains notebooks génèrent des fichiers/dossiers "checkpoint" dupliqués.
+# On les exclut pour éviter de maintenir du lint sur des artefacts.
+
+extend-exclude = [
+  "lessons/**/checkpoint/**",
+  "lessons/**/*-checkpoint.ipynb",
+]
