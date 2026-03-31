@@ -1,9 +1,6 @@
-import math 
+import math
 import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib import cm
-from mpl_toolkits.mplot3d import Axes3D
-from pylab import *
+
 
 # norm of a vector U in R^n
 def norm(U):
@@ -11,7 +8,7 @@ def norm(U):
     res = 0.0
     for i in range(n):
         res = res + U[i]**2
-    return sqrt(res)
+    return math.sqrt(res)
 
 # Algorithm looking for the minimum of a function f of n variables with gradient descent
 def GradientDescentMulti(f, gradf, X, alpha=1e-2, eps=1e-6, maxIter=1000):
