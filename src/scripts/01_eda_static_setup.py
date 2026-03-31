@@ -7,11 +7,12 @@ Toutes les variables de configuration sont exposées dans le namespace
 du notebook appelant après exécution.
 """
 
-import os
 import json
+import os
+
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import seaborn as sns
 
 # On charge la configuration depuis le fichier JSON
@@ -57,4 +58,4 @@ print()
 print(f"La clé de jointure pour les DataFrames est : {JOIN_KEY}")
 print()
 
-print('Les bibliothèques nécessaires sont importées.')
+print("La configuration a été chargée.")
