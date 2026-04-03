@@ -5,11 +5,11 @@ BEROUD Dylan, SERRE Loïc, REPELLIN Benjamin</p>
 
 # Contexte
 
-HumanForYou est une entreprise pharmaceutique indienne d'environ 4 000 employés, confrontée à un taux d'attrition annuel de 15 %, soit près de 600 départs par an. Ce phénomène génère des coûts opérationnels significatifs : retards de projets nuisant à la réputation client, pression sur le service RH pour le recrutement continu, et délais d'intégration des nouveaux collaborateurs.
+Notre société CesIA, experte dans la création de modèles prédictifs depuis maintenant 15 ans, se porte prestataire pour la première fois d’une entreprise provenant du secteur hors-UE. En effet, une entreprise pharmaceutique indienne d’environ 4 000 employés est actuellement confrontée à un taux d’attrition annuel de 15% soit près de 600 départs par an. Ce phénomène lui génère des coûts opérationnels significatifs : retards de projets nuisant à la réputation client, pression sur le service RH pour le recrutement continu, et délais d'intégration des nouveaux collaborateurs.
 
-Pour comprendre et enrayer ce phénomène, la direction a mandaté une analyse approfondie des données internes. Le jeu de données disponible est riche et multidimensionnel :
+Ainsi, pour comprendre et enrayer ce phénomène, HumanForYou fait appel à nous, début mars 2026, pour une analyse approfondie des données internes. Le jeu de données disponible est riche et multidimensionnel :
 
-- Pofils démographiques et contractuels des employés,
+- Profils démographiques et contractuels des employés,
 - Évaluations managériales,
 - Résultats d'une enquête de satisfaction,
 - Données de badgeuse couvrant l'intégralité de l'année 2015.
@@ -50,8 +50,7 @@ IA-groupe-02/
 │   │   └── processed/             # Données prêtes pour modélisation
 │   ├── documentation/             # Livrables (Éthique, Bibliographie)
 │   ├── notebooks/                 # Notebooks Jupyter (EDA, Modélisation)
-│   ├── resources/                 # Images & Vidéos
-│   └── scripts/                   # Scripts Python
+│   └── resources/                 # Images & Vidéos
 ├── lessons/                       # Mini-Projets & Ressources pédagogiques
 ├── .github/                       # CI/CD et Templates GitHub
 ├── requirements.txt
